@@ -1,0 +1,2 @@
+# TURNING-ON-BULB-LAMP-USING-PUSH-BUTTON-Decoration-
+ABSTRACT Turning on bulb lamp using pushbutton, is arduino based project which is used for decoration.  We are going to explain in all details how it can work. This project will help for lighting all decoration-designs with only one push. The benefits of implementing our project as solution it will provide good appearance in Christmas lighting, rooms, events i.e. wedding ceremony, birthday’s party.
