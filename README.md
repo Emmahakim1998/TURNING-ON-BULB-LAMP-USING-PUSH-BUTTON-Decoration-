@@ -10,3 +10,5 @@ This block diagram contains many different electronic components such as push bu
 These two push buttons are installed in parallel, the push button1 is used to start our installation with long press for one second and also the push button2 is used to stop this installation with long press for one second. The purpose of this long press is to prevent disturbance of someone who can press some of these push buttons by an accident which can disturb our decoration.
 When you press on push button1 these all four lamps are lighting alternatively. There is a timing of two seconds between one lamp and each other. After alternatively all lamps are lighting at the same time, then after two seconds the system restart again.
 At any time the push button2 is pressed a long one second the system will be stopped.
+# IV.	CIRCUIT DIAGRAM
+![image](https://user-images.githubusercontent.com/103589681/164708443-4e8294da-a950-468f-8468-9b3cf3cee853.png)
