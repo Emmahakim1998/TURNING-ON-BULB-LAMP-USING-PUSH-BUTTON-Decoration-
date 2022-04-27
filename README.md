@@ -14,7 +14,7 @@ At any time the push button2 is pressed a long one second the system will be sto
 ![image](https://user-images.githubusercontent.com/103589681/164708443-4e8294da-a950-468f-8468-9b3cf3cee853.png)
 # V.	SIMULATION IN PROTEUS
 ![image](https://user-images.githubusercontent.com/103589681/164709486-a01427bb-a34a-44f7-b0b9-00ee7b072999.png)
-# VI.	DEVELOP SOURCE CODES IN ARDUINO IDE
+# VI.	DEVELOPED SOURCE CODES IN ARDUINO IDE
 
 /*
   Button
