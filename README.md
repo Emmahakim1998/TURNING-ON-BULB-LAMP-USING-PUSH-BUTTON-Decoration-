@@ -239,6 +239,4 @@ void loop() {
   
 }
 
-Implemented by: -BISAMAZA Elie
-
-                -HAKIZIMANA Emmanuel
+Implemented by: -BISAMAZA Elie & HAKIZIMANA Emmanuel
